@@ -1,3 +1,6 @@
+# Following the officals configuration of Hugo instead of Gitlab Docs
+# https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/
+
 variables:
   DART_SASS_VERSION: 1.77.5
   HUGO_VERSION: 0.128.0
