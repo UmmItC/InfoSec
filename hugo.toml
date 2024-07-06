@@ -1,4 +1,5 @@
-#baseURL = "https://infosec.ummit.dev/"
+# Opting for Hugo to automatically detect the baseURL instead of setting it manually seems like the way to go!
+#baseURL = "https://infosec.ummit.dev/" <- No need.
 theme = "hugo-ficurinia"
 title = "InfoSec - UmmIt"
 languageCode = "en"
