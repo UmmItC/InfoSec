@@ -1,4 +1,4 @@
-baseURL = "https://infosec.ummit.dev/"
+#baseURL = "https://infosec.ummit.dev/"
 theme = "hugo-ficurinia"
 title = "InfoSec - UmmIt"
 languageCode = "en"
