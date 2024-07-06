@@ -3,11 +3,10 @@ default:
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  GL_PAGES_URL: https://infosec.ummit.dev
   
 pages:
   script:
-    - hugo -b $GL_PAGES_URL
+    - hugo
   artifacts:
     paths:
       - public
