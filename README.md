@@ -12,7 +12,7 @@ To get started, clone the repository with submodules:
 git clone --recursive https://gitlab.com/UmmIt/InfoSec
 ```
 
-Then, run the site with Hugo and access it at https://localhost:1313
+Then, run the site with Hugo and access it at `localhost:1313`
 
 ```shell
 hugo server --watch --logLevel debug
