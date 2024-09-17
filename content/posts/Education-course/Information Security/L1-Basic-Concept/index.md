@@ -71,6 +71,10 @@ In summary:
 - **Integrity**: Is the information correct?
 - **Availability**: Can you access the information when you need it?
 
+## End-user
+
+An `end-user` is the final person who uses a product or service. In computing and networking, end-users are individuals who operate devices or applications to perform their tasks. They interact directly with the technology, as opposed to those who develop, manage, or sell it.
+
 ## Definition of Hacker
 
 A hacker of my definition is a person who really good at programming, hacking, or other about the computer. Usually, they got defined as a person who uses computers to gain unauthorized access to data.
